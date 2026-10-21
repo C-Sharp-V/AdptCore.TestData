@@ -1,0 +1,2 @@
+# Test data files are kept byte for byte: tests compare their hash.
+Microsoft.NETCore.App.Ref/** -text
